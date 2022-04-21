@@ -1,0 +1,12 @@
+D:\KPI_NEW\sem4\net_web\lab1\SortedList\SortedList\bin\Debug\net5.0\SortedList.deps.json
+D:\KPI_NEW\sem4\net_web\lab1\SortedList\SortedList\bin\Debug\net5.0\SortedList.dll
+D:\KPI_NEW\sem4\net_web\lab1\SortedList\SortedList\bin\Debug\net5.0\SortedList.pdb
+D:\KPI_NEW\sem4\net_web\lab1\SortedList\SortedList\obj\Debug\net5.0\SortedList.csproj.AssemblyReference.cache
+D:\KPI_NEW\sem4\net_web\lab1\SortedList\SortedList\obj\Debug\net5.0\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI_NEW\sem4\net_web\lab1\SortedList\SortedList\obj\Debug\net5.0\SortedList.AssemblyInfoInputs.cache
+D:\KPI_NEW\sem4\net_web\lab1\SortedList\SortedList\obj\Debug\net5.0\SortedList.AssemblyInfo.cs
+D:\KPI_NEW\sem4\net_web\lab1\SortedList\SortedList\obj\Debug\net5.0\SortedList.csproj.CoreCompileInputs.cache
+D:\KPI_NEW\sem4\net_web\lab1\SortedList\SortedList\obj\Debug\net5.0\SortedList.dll
+D:\KPI_NEW\sem4\net_web\lab1\SortedList\SortedList\obj\Debug\net5.0\ref\SortedList.dll
+D:\KPI_NEW\sem4\net_web\lab1\SortedList\SortedList\obj\Debug\net5.0\SortedList.pdb
+D:\KPI_NEW\sem4\net_web\lab1\SortedList\SortedList\obj\Debug\net5.0\refint\SortedList.dll

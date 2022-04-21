@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "lab1/1.0.0": {
+        "dependencies": {
+          "SortedList": "1.0.0"
+        },
+        "runtime": {
+          "lab1.dll": {}
+        }
+      },
+      "SortedList/1.0.0": {
+        "runtime": {
+          "SortedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SortedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
